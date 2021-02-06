@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+我是neckau，目前在国内某游戏公司内任职游戏服务器架构师。平时也参与独立游戏开发。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+钟爱魂系游戏，恐怖游戏，剧情游戏。喜爱的游戏有：黑暗之魂类，寂静岭，最终幻想，死亡搁浅，各类恐怖、剧情游戏。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+微博、豆瓣、知乎账号：neckau
 
-
-[jekyll-organization]: https://github.com/jekyll
+邮箱：neckau@163.com

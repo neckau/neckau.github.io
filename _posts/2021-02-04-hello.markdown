@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 按照Jekyll Github Pages的说明搭了个站点，过程并不顺利。主要我也不熟ruby。
-和官方介绍不同的地方：
-1. 站点放在master分支而不是官方推荐的gh-pages分支，或master分支的docs目录下。 
+和官方介绍不同的地方有：
+1. 站点放在master分支根目录，而不是官方推荐的gh-pages分支。
 2. Gemfile里额外加了一行```gem "kramdown-parser-gfm"```，也并没有打开```gem "github-pages"```注释。
 3. gitignore掉_sites目录。
